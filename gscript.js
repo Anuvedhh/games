@@ -43,7 +43,7 @@ function createEnemy() {
         y: 0,
         radius: 20,
         color: randomColor.color,
-        speed: Math.random() *  4+3 +2 +1,
+        speed: Math.random() *  3  +1,
         points: randomColor.points
     });
 }
